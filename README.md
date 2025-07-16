@@ -32,4 +32,4 @@ This type of application mirrors real-world development scenarios where you need
 
 
 ## OUTPUT: 
-
+<img width="1230" height="817" alt="Image" src="https://github.com/user-attachments/assets/18b0184e-028c-4cb6-a1f3-2b1e51adf9b5" />
